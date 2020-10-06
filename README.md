@@ -1,4 +1,4 @@
-## Project Bogie V2
+# Project Bogie V2
 Author:   Adam Tipton
 Title:    Project Bogie
 Version:  1
@@ -7,7 +7,7 @@ Company:  Brigham Young University - Idaho
 Course:   CSE 499 Senior Project
 Semester: Fall 2020
  
-# Description:
+## Description:
     Project Bogie is a Convolutional Neural Network written in the Python language. 
     This CNN will train a model from a dataset the ability to identify military 
     aircraft/jets. 
@@ -21,10 +21,10 @@ Semester: Fall 2020
  
     Project Bogie uses TensorFlow as a backend and Keras as a driving force for training.
 
-# Sources:
+## Sources:
     Much inspiration and reusable code base is taken from the following tutorial -
     URL: https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/
 
 
 
-# Notice: As part of the capstone project, this code belongs to BYU-I. No license implied.
+## Notice: As part of the capstone project, this code belongs to BYU-I. No license implied.
